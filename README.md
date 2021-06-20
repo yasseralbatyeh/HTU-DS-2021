@@ -31,8 +31,8 @@ Course basic descriptions
 ## Syllabus
 
 - **Week-1 (Generic)**
-    - [ ]  W-1.00 Course Introduction & Course Benefits
-    - [ ]  W-1.01 What is Data Science?
+    - [x]  W-1.00 Course Introduction & Course Benefits
+    - [x]  W-1.01 What is Data Science?
     - [ ]  W-1.02 Life-cycle of data science project
     - [ ]  W-1.03 Installation of Anaconda Navigator
     - [ ]  W-1.04 How to Run Python code
